@@ -40,7 +40,7 @@ class _AnimationScreenState extends State<AnimationScreen>
         child: RotationTransition(
           turns: _rotationAnimation,
           child: Image.asset(
-              'asset/images/teamwork.png'), 
+              'asset/images/arrow.png'), 
         ),
       ),
     );
